@@ -1194,8 +1194,8 @@ section.lazy-placeholder:after {
 }
 .cid-rOurqPUdIe {
   padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/preview.jpg");
+  padding-bottom: 45px;
+  background-color: #000000;
 }
 @media (max-width: 767px) {
   .cid-rOurqPUdIe .media-wrap {
